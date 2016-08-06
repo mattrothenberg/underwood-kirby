@@ -1,4 +1,9 @@
 var $grid = $('.grid');
+var homeBody = $('.home body');
+
+if ( homeBody.length > 0 ) {
+  homeBody.sakura();
+}
 
 if ( $grid.length > 0 ) {
   $grid.masonry({

@@ -1,16 +1,16 @@
-Title: Kirby Starterkit
+Title: Alison Underwood
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Alison Underwood
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Artist / Graphic Designer / Student based in New York City.
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: alison,underwood,alison underwood,graphic design,nyc,new york,artist,parsons,cooper hewitt
 
 ----
 

@@ -8,9 +8,10 @@
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
   <meta name="description" content="<?php echo $site->description()->html() ?>">
   <meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
+  <link rel="icon" type="image/ico" href="<?php echo url('assets/images/favicon.ico') ?> ">
   <meta property="og:title" content="Alison Underwood" />
-  <meta property="og:description" content="Artist &amp; Graphic Designer" />
-  <meta property="og:image" content="http://alisonunderwood.com/images/raw-material-fb.png" />
+  <meta property="og:description" content="Artist / Graphic Designer / Student based in New York City" />
+  <meta property="og:image" content="<?php echo url('assets/images/raw-material-fb.png') ?>" />
   <meta property="og:image:type" content="image/png" />
   <meta property="og:image:width" content="300" />
   <meta property="og:image:height" content="300" />

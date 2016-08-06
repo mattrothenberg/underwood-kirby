@@ -3,6 +3,7 @@
   <script src="https://npmcdn.com/masonry-layout@4.1/dist/masonry.pkgd.min.js"></script>
   <?php echo js('assets/vendor/photoswipe/photoswipe.min.js') ?>
   <?php echo js('assets/vendor/photoswipe/photoswipe-ui-default.min.js') ?>
+  <?php echo js('assets/vendor/sakura/jquery-sakura.min.js') ?>
   <?php echo js('assets/js/main.js') ?>
 </body>
 </html>
