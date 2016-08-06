@@ -20,6 +20,15 @@ html.home {
   }
 }
 
+.graphic,
+.fine-art {
+  padding: 120px 0 0 0;
+
+  @media(min-width: $screen-sm-min) {
+    padding: 80px 0 0 0;
+  }
+}
+
 body {
   font-family: "Apercu", "Helvetica", sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -191,14 +200,6 @@ body {
 .home {
   .wrap {
     background: $pink;
-  }
-}
-
-.graphic {
-  padding: 120px 0 0 0;
-
-  @media(min-width: $screen-sm-min) {
-    padding: 80px 0 0 0;
   }
 }
 

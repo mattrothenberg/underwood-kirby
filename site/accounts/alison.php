@@ -7,6 +7,7 @@ email: undea374@newschool.edu
 language: en
 role: admin
 history:
+  - fine-art
   - graphic
   - contact
   - home
