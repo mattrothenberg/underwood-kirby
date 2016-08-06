@@ -15,6 +15,8 @@
   <meta property="og:image:width" content="300" />
   <meta property="og:image:height" content="300" />
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <?php echo css('assets/vendor/photoswipe/photoswipe.css') ?>
+  <?php echo css('assets/vendor/photoswipe/default-skin/default-skin.css') ?>
   <?php echo css('assets/css/main.css') ?>
 
 </head>

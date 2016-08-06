@@ -2,3 +2,7 @@ title: Fine Art
 pages: false
 files:
   sortable: true
+  fields:
+    caption:
+      label: Caption
+      type: text

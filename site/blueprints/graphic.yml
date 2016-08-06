@@ -2,3 +2,7 @@ title: Graphic
 pages: false
 files:
   sortable: true
+  fields:
+    caption:
+      label: Caption
+      type: text
