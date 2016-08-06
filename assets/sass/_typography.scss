@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Apercu';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/apercu_regular.eot');
+  src: url('../fonts/apercu_regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/apercu_regular.woff') format('woff'),
+       url('../fonts/apercu_regular.ttf') format('truetype'),
+       url('../fonts/apercu_regular.svg#ApercuRegular') format('svg');
+}
+
+@font-face {
+  font-family: 'Apercu';
+  font-weight: lighter;
+  font-style: normal;
+  src: url('../fonts/apercu_light.eot');
+  src: url('../fonts/apercu_light.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/apercu_light.woff') format('woff'),
+       url('../fonts/apercu_light.ttf') format('truetype'),
+       url('../fonts/apercu_light.svg#ApercuLight') format('svg');
+}
+
+@font-face {
+  font-family: 'Apercu';
+  font-weight: bold;
+  font-style: normal;
+  src: url('../fonts/apercu_bolds.eot');
+  src: url('../fonts/apercu_bolds.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/apercu_bolds.woff') format('woff'),
+       url('../fonts/apercu_bolds.ttf') format('truetype'),
+       url('../fonts/apercu_bolds.svg#ApercuBolds') format('svg');
+}
